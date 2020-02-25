@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CerraduraKleene", "CerraduraKleene.csproj", "{3CA0D987-AC6F-4640-B5A9-441DDCEF9803}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CA0D987-AC6F-4640-B5A9-441DDCEF9803}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CA0D987-AC6F-4640-B5A9-441DDCEF9803}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CA0D987-AC6F-4640-B5A9-441DDCEF9803}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CA0D987-AC6F-4640-B5A9-441DDCEF9803}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AFA3B601-3F77-4A2D-938F-C2960626B222}
+	EndGlobalSection
+EndGlobal
